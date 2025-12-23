@@ -1,4 +1,4 @@
-# Tauri + React
+# Voice-to-Text-App
 
 This template should help get you started developing with Tauri and React in Vite.
 
